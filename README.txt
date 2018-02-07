@@ -42,7 +42,7 @@ Here we used union-find algorithm by path compression and by rank, so it gives t
     ./run.sh filename.graph
 
     if you want to run multiple testcases automatically, comment first option there, uncomment second script block and on terminal type,
-    ./run.sh# Feedback-Vertex-Set
+    ./run.sh
     
 To execute ipynb files you need two output files. One will be created with running this code and another one you have to generate with the implementation you want to compare with.
 
